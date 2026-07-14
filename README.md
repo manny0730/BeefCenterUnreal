@@ -6,7 +6,7 @@ This repository utilizes MQTT, Mosquitto, a custom MQTT Unreal Engine Plugin, an
 
 ---
 
-## 🛑 CRITICAL WARNING: DO NOT OPEN THE PROJECT YET
+## 🛑 DO NOT OPEN THE PROJECT YET
 **Do NOT attempt to open the Unreal Engine `.uproject` file immediately after cloning.** 
 If you do not have MQTT and Mosquitto installed and configured first, the Unreal Engine project **will fail to open**.
 
